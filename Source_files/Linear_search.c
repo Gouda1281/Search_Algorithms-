@@ -8,7 +8,7 @@ int Linear_Search(int *data, int len, int key)
          if(data[i] == key)
          {
                 return i;
-         }
+         } 
     }
     return -1;
 
