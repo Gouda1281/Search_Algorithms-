@@ -34,6 +34,9 @@
 		<Unit filename="Source_files/Binary_Search.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="Source_files/Linear_search.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
